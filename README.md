@@ -1,3 +1,3 @@
 # Bence Kollanyi
 
-Code for the website of Bence Kollanyi 
+Temporary code for the website of Bence Kollanyi 
