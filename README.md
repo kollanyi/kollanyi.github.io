@@ -1,3 +1,3 @@
 # Bence Kollanyi
 
-Bence Kollanyi is a researcher at the Center for Social Sciences in Budapest and also teaches at Corvinus University of Budapest. He previously studied the political use of bots as a member of the Computational Propaganda research group at the Oxford Internet Institute. He wrote his PhD thesis on the development of automated social media profiles (bots) based on the analysis of GitHub data. He also holds a degree in Sociology from Eötvös Loránd University and an MSc from Georgia Institute of Technology in Public Policy. His research interests lie at the intersection of computer science and social science.
+Code for the website of Bence Kollanyi 
